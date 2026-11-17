@@ -18,6 +18,6 @@ My first repository
 - Plot twists
 - Cinematography
 
-> "Put your favorite quote here."
+>  "If you win, you live. If you lose, you die. If you don't fight, you can't win."
 
 [Watch the trailer](https://www.youtube.com/watch?v=WJkJTb8T-8E)
